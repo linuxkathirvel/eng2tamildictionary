@@ -2,7 +2,7 @@ import xlrd
 import json
 
 # Open the Excel file
-excel_book = xlrd.open_workbook('/home/vvdn/Downloads/English-Tamil-Dictionary.xls')
+excel_book = xlrd.open_workbook('/home/kathirvel/Downloads/English-Tamil-Dictionary.xls')
 
 # Get the sheet
 # sheet '1' is unicode

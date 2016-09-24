@@ -31,5 +31,5 @@ No. Google Chrome browser not support JSON file reading using jQuery. JSON file 
 * Internet connection needed?
 No. It is an offlince Dictionary. JSON file is a source of Dictionary
 * How many words are available?
-
+56855 words are available now. Number of words increase in future.
 

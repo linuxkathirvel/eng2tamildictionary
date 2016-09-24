@@ -10,7 +10,7 @@ English - Tamil Dictionary - Offline
 
 # Source of dictionary
 * English-Tamil-Dictionary.xls file from Tamil Nadu Free Laptop Scheme
-* ![University of Madras Dictionary](http://www.tamilvu.org/library/pmdictionary/html/madsind.htm)
+* [University of Madras Dictionary](http://www.tamilvu.org/library/pmdictionary/html/madsind.htm)
 
 # How it works
 * xls file contents converted as ![JSON file](https://github.com/linuxkathirvel/eng2tamildictionary/blob/master/dictionary.json) using ![excel_to_html.py](https://github.com/linuxkathirvel/eng2tamildictionary/blob/master/excel_to_html.py) python script
